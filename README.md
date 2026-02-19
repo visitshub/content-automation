@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Leo
 
-<!--
-**visitshub/visitshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building automation tools and systems that save time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+- React / TypeScript / Node.js
+- Python / Automation scripts  
+- Google Cloud / APIs
+- AI workflows & integrations
+
+---
+
+## 📫 Connect
+
+- Website: [ali-saad.dev](https://ali-saad.dev)
+- Company: Swift Digital Solutions
+
